@@ -1,7 +1,7 @@
 ### Hola Soy Sergio 👋
 
 # 💫 About Me:
-🖋️Amante de la programación, siempre buscando desafíos creativos.<br>🖋️Apasionado por la resolución de problemas a través del código.<br>🖋️En constante exploración de diversos lenguajes y tecnologías.<br>📊Aspirante a especializarme en programación orientada a datos.<br>🖋️Comprometido/a con el aprendizaje continuo y el crecimiento profesional.<br>🖋️Entusiasmado/a por contribuir a proyectos colaborativos y desafiantes.
+🖋️ Amante de la programación, siempre buscando desafíos creativos.<br>🖋️ Apasionado por la resolución de problemas a través del código.<br>🖋️ En constante exploración de diversos lenguajes y tecnologías.<br> 📊Aspirante a especializarme en programación orientada a datos.<br>🖋️ Comprometido/a con el aprendizaje continuo y el crecimiento profesional.<br>🖋️ Entusiasmado/a por contribuir a proyectos colaborativos y desafiantes.
 
 
 ## 🌐 Socials:
