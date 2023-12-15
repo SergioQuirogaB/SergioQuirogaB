@@ -1,4 +1,4 @@
-### Hola Soy Sergio 👋
+### <h3> Hola Soy Sergio Quiroga 👋 </h3>
 
 # 💫 Sobre Mi:
 🖋️ Amante de la programación, siempre buscando desafíos creativos.<br>🖋️ Apasionado por la resolución de problemas a través del código.<br>🖋️ En constante exploración de diversos lenguajes y tecnologías.<br>🖋️ Comprometido con el aprendizaje continuo y el crecimiento profesional.<br>🖋️ Entusiasmado por contribuir a proyectos colaborativos y desafiantes. <br>📊Aspirante a especializarme en programación orientada a datos.
