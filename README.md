@@ -1,4 +1,4 @@
-# <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" alt="Hello" width="60" height="60"> Sergio Quiroga!
+# <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" alt="Hello" width="60" height="60">Soy Sergio Quiroga!
 * Soy desarrollador Full Stack con experiencia en **PHP**.
 * Me concentro en crear aplicaciones web y móviles **seguras** y **escalables**.
 * Actualmente estoy aprendiendo **Python**.
